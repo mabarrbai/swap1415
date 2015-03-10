@@ -1,0 +1,15 @@
+1.- En una granja web, ¿puede haber distintos servidores web (Apache,nginx,thttpd,etc.) trabajando en las distintas máquinas destinadas a servir contenido web? (Por ejemplo, un servidor web usa Apache, otro usa nginx y otro usa thttpd):
+  a) No.
+  b) Sí, siempre que haya un cortafuegos.
+  c) Sí, por supuesto.
+  d) Sí, si todos usan HTML5.
+  respuesta correcta: c 
+
+
+2.- ¿Qué elementos hardware son los que suelen fallar primero ante un incremento de uso en el servidor?
+  a) Ratones y discos duros.
+  b) Teclados y ratones.
+  c) Tarjetas gráficas y fuentes de alimentación.
+  d) Fuentes de alimentación y discos duros.
+  respuesta correcta: d
+
