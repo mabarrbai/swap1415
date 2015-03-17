@@ -1,0 +1,14 @@
+1.- En una granja web, los posibles peligros llegan:
+  a) Desde Internet
+  b) Por la red WiFi.
+  c) Por los pen de los administradores
+  d) Ninguna es correcta.
+  respuesta correcta: D	(Ya que llegan desde Internet y desde dentro de la red corporativa (propios empleados) ) 
+
+
+2.- En una configuración de DMZ tradicional, el principal problema es... :
+  a) El elevado ancho de banda que se necesita.
+  b) La configuración de los servidores web.
+  c) La configuración y capacidad de trabajo del cortafuegos.
+  d) El software del cortafuegos.
+  respuesta correcta: C
