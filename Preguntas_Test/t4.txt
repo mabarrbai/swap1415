@@ -1,5 +1,5 @@
 1.- La persistencia consiste en:
-  a) Evitar que los equipos se estropeen por virus.
+  a) Evitar que los equipos se infecten por virus.
   b) Tener varios equipos configurados por si alguno falla.
   c) Mantener el tráfico de un usuario en el servidor que lo atendió primero.
   d) Que las aplicaciones no se actualicen a una nueva versión.
