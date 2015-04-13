@@ -1,0 +1,14 @@
+1.- La persistencia consiste en:
+  a) Evitar que los equipos se estropeen por virus.
+  b) Tener varios equipos configurados por si alguno falla.
+  c) Mantener el tráfico de un usuario en el servidor que lo atendió primero.
+  d) Que las aplicaciones no se actualicen a una nueva versión.
+  respuesta correcta: C
+
+
+2.- ¿Qué intenta conseguir el balanceo de carga global? :
+  a) Distribuir carga de trabajo entre centros de datos.
+  b) Disminuir tiempos de conexión.
+  c) Redundancia.
+  d) Todas son correctas.
+  respuesta correcta: D
