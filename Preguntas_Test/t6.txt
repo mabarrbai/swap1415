@@ -1,0 +1,14 @@
+1.- ¿ Cual de las siguientes afirmaciones es incorrecta sobre asegurar el sistema web?
+  a) A nivel de red, un dominio compartido se compone de un acceso seguro de la granja web y otro inseguro (Internet).
+  b) Cuando se da de baja a un usuario, su cuenta debe ser eliminada completamente aunque perjudique el desarrollo de una aplicación.
+  c) Con solo tener los routers y cortafuegos correctamente configurados tendremos el sistema bien asegurado.
+  d) Los servidores deben tener sus propias contraseñas de BIOS y consola.
+  respuesta correcta: C
+
+
+2.- ¿Cual es la finalidad principal de la defensa en profundidad?
+  a) Identificar a los intrusos para denunciarlos a las autoridades.
+  b) Tener varios niveles de seguridad e incrementar el tiempo necesario para superar cada uno de ellos.  
+  c) Atraer a los atacantes simulando ser sistemas vulnerables y liberar a los sitemas reales. A estos sistemas se les denomina "honeypot".
+  d) Estudiar a los atacantes para poder atacarlos a ellos.
+  respuesta correcta: B
