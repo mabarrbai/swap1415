@@ -1,0 +1,14 @@
+1.- ¿ Cual de las siguientes afirmaciones es verdadera respecto al tráfico HTTP ?
+  a) HTTP 1.0 se emplea cuando se trata de servidores Linux y HTTP 1.1 cuando son servidores Windows.
+  b) HTTP 1.0 se emplea cuando se trata de servidores Windows y HTTP 1.1 cuando son servidores Linux.
+  c) HTTP 1.0 envía con una sola conexión varios objetos y HTTP 1.1 necesita una conexión para cada objeto enviado.
+  d) HTTP 1.0 necesita una conexión para cada objeto enviado y HTTP 1.1 envía con una sola conexión varios objetos.
+  respuesta correcta: D
+
+
+2.- ¿Por qué Apache Benchmark no simula totalmente el comportamiento de los usuarios reales?
+  a) Porque es más rápido que un usuario real.
+  b) Porque pide en la evaluación la misma página repetidamente.
+  c) Porque guarda las solicitudes en una cache propia y por tanto no se solicitan al servidor.
+  d) Porque sólo simula peticiones como si fueran enviadas desde un navegador Mozilla Firefox.
+  respuesta correcta: B
