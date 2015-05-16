@@ -1,0 +1,14 @@
+1.- En una granja web nos bastará con tener...
+  a) Escáneres e impresoras.
+  b) Altas cantidades de RAM y una CPU potente.
+  c) Una CPU potente (supercomputación) pero no demasiada RAM.
+  d) Una CPU no demasiada potente y una gran cantidad de memoria RAM.
+  respuesta correcta: D
+
+
+2.- Respecto a servir contenido dinámico...
+  a) Implica ejecutar código de las páginas servidas.
+  b) No se puede almacenar contenido en caché.  
+  c) Hay más riesgos en cuanto a seguridad.
+  d) Todas son correctas.
+  respuesta correcta: D
