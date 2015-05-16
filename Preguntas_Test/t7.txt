@@ -1,0 +1,14 @@
+1.- ¿ Cual de los siguientes niveles RAID no ofrece protección contra fallos ?
+  a) RAID 0.
+  b) RAID 1.
+  c) RAID 5.
+  d) Ninguna es correcta.
+  respuesta correcta: A
+
+
+2.- ¿Que problema nos encontramos si realizamos una distribución funcional en una base de datos?
+  a) Escalabilidad de la base de datos.
+  b) Protección ante fallos.  
+  c) Integridad de los datos.
+  d) La base de datos tendrá que ser relacional.
+  respuesta correcta: C
